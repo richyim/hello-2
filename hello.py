@@ -8,7 +8,7 @@ print b
      {
          {
              abc();
-        
+             richyim();
          }
      }
 }
